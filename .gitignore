@@ -9,4 +9,5 @@
 !README.md
 !.gitignore
 
+# Ignore all mp4 files (even in unignored folders)
 *.mp4
